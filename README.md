@@ -1,0 +1,2 @@
+# pamsimas
+aplikasi digitalisasi pamsimas
